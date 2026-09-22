@@ -6,3 +6,4 @@ langgraph
 qdrant-client
 sentence-transformers
 langchain
+pypdf
