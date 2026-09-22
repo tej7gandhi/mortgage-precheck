@@ -9,3 +9,4 @@ qdrant-client
 pypdf
 sentence-transformers
 groq
+torchvision
