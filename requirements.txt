@@ -1,9 +1,9 @@
 streamlit
-langchain-qdrant
-langchain-huggingface
+langchain-community
 langchain-core
+langchain-text-splitters
+langchain-huggingface
+langchain-qdrant
 langgraph
 qdrant-client
-sentence-transformers
-langchain
 pypdf
