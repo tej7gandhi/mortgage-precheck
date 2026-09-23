@@ -10,3 +10,4 @@ pypdf
 sentence-transformers
 groq
 torchvision
+openai
